@@ -12,7 +12,7 @@
    - [6. Clustering and Segmentation Analysis](#6-clustering-and-segmentation-analysis)
    - [7. Market Basket Analysis](#7-market-basket-analysis)
    - [8. Cohort Analysis](#8-cohort-analysis)
-4.[Conclusion](#conclusion)
+4. [Conclusion](#conclusion)
 
 
 ## Overview
