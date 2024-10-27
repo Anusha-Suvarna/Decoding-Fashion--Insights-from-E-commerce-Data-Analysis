@@ -224,7 +224,7 @@ The following analyses were performed:
   4. **Data Visualization**: Created bar plots to visualize customer counts and retention rates by income cohorts.
   
 **Cohort Analysis Results**  
-  ![Cohort Analysis_Result](https://github.com/user-attachments/assets/b6d0cdc5-6d71-4339-aa7d-389be47222fc)
+  ![Cohort Analysis_Result]([https://github.com/user-attachments/assets/b6d0cdc5-6d71-4339-aa7d-389be47222fc](https://github.com/Anusha-Suvarna/Decoding-Fashion--Insights-from-E-commerce-Data-Analysis/blob/main/Cohort%20Analysis%20Result.png))
    Cohort Analysis Result.png
 
 - **Results**:
