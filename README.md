@@ -222,6 +222,10 @@ The following analyses were performed:
   2. **Cohort Count Calculation**: Counted the number of customers in each income cohort.
   3. **Retention Rate Mapping**: Simulated retention rates for each income cohort.
   4. **Data Visualization**: Created bar plots to visualize customer counts and retention rates by income cohorts.
+  
+**Cohort Analysis Results**  
+  ![Cohort Analysis_Result](https://github.com/user-attachments/assets/b6d0cdc5-6d71-4339-aa7d-389be47222fc)
+   Cohort Analysis Result.png
 
 - **Results**:
   - Defined four income cohorts with varying customer counts and retention rates, showing higher loyalty among higher income groups.
