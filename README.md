@@ -1,5 +1,19 @@
 # Decoding Fashion: Insights from E-commerce Data Analysis
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Dataset Details](#dataset-details)
+3. [Analysis Overview](#analysis-overview)
+   - [1. Data Cleaning and Preprocessing](#1-data-cleaning-and-preprocessing)
+   - [2. Funnel Analysis](#2-funnel-analysis)
+   - [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
+   - [4. Feature Engineering](#4-feature-engineering)
+   - [5. Statistical Analysis](#5-statistical-analysis)
+   - [6. Clustering and Segmentation Analysis](#6-clustering-and-segmentation-analysis)
+   - [7. Market Basket Analysis](#7-market-basket-analysis)
+   - [8. Cohort Analysis](#8-cohort-analysis)
+
+
 ## Overview
 
 Analyzed e-commerce fashion data to enhance customer engagement. Performed data cleaning, exploratory analysis, and funnel analysis to track customer journeys. Used statistical tests and clustering for segmentation, along with market basket analysis to identify purchasing patterns and cohort analysis for retention insights.
