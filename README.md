@@ -204,6 +204,8 @@ The following analyses were performed:
 - **Results**:
   - **K-Means Clustering**: Successfully identified distinct customer segments for targeted marketing strategies.
   - **Elbow Method**: Indicated the optimal number of clusters, providing a balance between model complexity and explained variance.
+    <img width="691" alt="Clustering and Segmentation Analysis Result" src="https://github.com/user-attachments/assets/a306cc90-54be-4942-890e-36d0ccb0deca">
+
 
 ### 7. Market Basket Analysis
 - **Methods Used**:
