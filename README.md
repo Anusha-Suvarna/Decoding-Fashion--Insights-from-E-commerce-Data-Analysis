@@ -197,6 +197,7 @@ The following analyses were performed:
   - **Descriptive Statistics**: Indicated variability among customer income levels.
   - **Regression Analysis**: Provided insights into how well independent variables explain the target variable.
   - **Multivariate Analysis**: PCA visualized relationships among features, while K-Means revealed distinct customer segments.
+    <img width="667" alt="K-Means Clustering Result" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
 
 - **Insights**: The statistical analysis provided valuable insights into consumer behavior, revealing significant relationships and differences. Gender and occupation significantly influence spending, while income shows a strong correlation with spending patterns.
 
