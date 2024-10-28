@@ -94,8 +94,8 @@ The following analyses were performed:
 - **Visualizations**:
   - **Funnel Chart**: Displayed conversion rates for each gender.
    <div align="center">
-      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
-      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
+      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
+      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
     </div>
 
   - **Pie Charts**: Illustrated conversion rates for "Added to Cart," "Initiated Checkout," and "Completed Purchase" by gender.
