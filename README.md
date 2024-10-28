@@ -94,8 +94,8 @@ The following analyses were performed:
 - **Visualizations**:
   - **Funnel Chart**: Displayed conversion rates for each gender.
    <div align="center">
-      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
-      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
+      <img style="width:1000px; height:auto;" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
+      <img style="width:1000px; height:auto;" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
     </div>
 
   - **Pie Charts**: Illustrated conversion rates for "Added to Cart," "Initiated Checkout," and "Completed Purchase" by gender.
@@ -124,12 +124,12 @@ The following analyses were performed:
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
        <<div align="center">
-         <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
        </div>
               
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
       <div align="center">
-         <img style="width:1200px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
+         <img style="width:1000px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
        </div>
 
 - **Key Results**:
@@ -210,7 +210,7 @@ The following analyses were performed:
   - **Regression Analysis**: Provided insights into how well independent variables explain the target variable.
   - **Multivariate Analysis**: PCA visualized relationships among features, while K-Means revealed distinct customer segments.
     <div align="center">
-      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
+      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
     </div>
 
 - **Insights**: The statistical analysis provided valuable insights into consumer behavior, revealing significant relationships and differences. Gender and occupation significantly influence spending, while income shows a strong correlation with spending patterns.
