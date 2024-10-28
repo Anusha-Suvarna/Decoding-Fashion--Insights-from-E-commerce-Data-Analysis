@@ -176,7 +176,7 @@ The following analyses were performed:
       4. **Total Income**
       5. **Purchase Frequency (per month)**
          <div align="center">
-           <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
+           <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
          </div>
 
 
@@ -210,7 +210,7 @@ The following analyses were performed:
   - **Regression Analysis**: Provided insights into how well independent variables explain the target variable.
   - **Multivariate Analysis**: PCA visualized relationships among features, while K-Means revealed distinct customer segments.
     <div align="center">
-      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
+      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
     </div>
 
 - **Insights**: The statistical analysis provided valuable insights into consumer behavior, revealing significant relationships and differences. Gender and occupation significantly influence spending, while income shows a strong correlation with spending patterns.
@@ -224,7 +224,7 @@ The following analyses were performed:
   - **K-Means Clustering**: Successfully identified distinct customer segments for targeted marketing strategies.
   - **Elbow Method**: Indicated the optimal number of clusters, providing a balance between model complexity and explained variance.
     <div align="center">
-      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/a306cc90-54be-4942-890e-36d0ccb0deca">
+      <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/a306cc90-54be-4942-890e-36d0ccb0deca">
     </div>
 
 ### 7. Market Basket Analysis
@@ -246,7 +246,7 @@ The following analyses were performed:
   3. **Retention Rate Mapping**: Simulated retention rates for each income cohort.
   4. **Data Visualization**: Created bar plots to visualize customer counts and retention rates by income cohorts.
      <div align="center">
-       <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/0d9d6cc9-4913-4f79-96c7-8c33640d8d22">
+       <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/0d9d6cc9-4913-4f79-96c7-8c33640d8d22">
      </div>
 
   - **Results**:
