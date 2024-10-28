@@ -119,8 +119,8 @@ The following analyses were performed:
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
        <img width="406" alt="Multivariate Analysis Result" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
-
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
+       <img width="425" alt="Correlation Analysis" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
 
 - **Key Results**:
   - **Summary Statistics**:
