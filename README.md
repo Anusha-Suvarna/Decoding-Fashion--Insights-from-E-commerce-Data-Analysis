@@ -93,6 +93,8 @@ The following analyses were performed:
 
 - **Visualizations**:
   - **Funnel Chart**: Displayed conversion rates for each gender.
+    <img width="819" alt="Funnel Analysis- Conversion Funnel for Male Result" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
+
   - **Pie Charts**: Illustrated conversion rates for "Added to Cart," "Initiated Checkout," and "Completed Purchase" by gender.
 
 - **Insights**: A significant drop-off occurs from "Visited Site" to "Added to Cart," especially among males, suggesting targeted strategies may be necessary to improve engagement in that stage.
