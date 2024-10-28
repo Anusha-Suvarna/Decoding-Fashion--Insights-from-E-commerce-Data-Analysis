@@ -124,12 +124,12 @@ The following analyses were performed:
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
        <<div align="center">
-         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+         <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
        </div>
               
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
       <div align="center">
-         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
+         <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
        </div>
 
 - **Key Results**:
