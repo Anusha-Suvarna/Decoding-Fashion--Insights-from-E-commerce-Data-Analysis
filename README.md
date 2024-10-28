@@ -118,6 +118,8 @@ The following analyses were performed:
        - **Box Plots**: Distribution of numerical variables across categorical groups.
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
+       <img width="406" alt="Multivariate Analysis Result" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
 
 - **Key Results**:
