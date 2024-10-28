@@ -163,6 +163,8 @@ The following analyses were performed:
       3. **Satisfaction Rating (1-5)**
       4. **Total Income**
       5. **Purchase Frequency (per month)**
+         <img width="791" alt="Feature Engineering Result" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
+
 
 -  **Insights** The feature engineering process significantly improved the model's predictive capabilities, providing meaningful insights into consumer spending behavior.
 
