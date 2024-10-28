@@ -124,12 +124,12 @@ The following analyses were performed:
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
        <<div align="center">
-         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+         <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
        </div>
               
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
       <div align="center">
-         <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
+         <img style="width:1200px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
        </div>
 
 - **Key Results**:
@@ -176,7 +176,7 @@ The following analyses were performed:
       4. **Total Income**
       5. **Purchase Frequency (per month)**
          <div align="center">
-           <img style="width:900px; height:auto;" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
+           <img style="width:1200px; height:auto;" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
          </div>
 
 
