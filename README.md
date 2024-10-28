@@ -93,8 +93,10 @@ The following analyses were performed:
 
 - **Visualizations**:
   - **Funnel Chart**: Displayed conversion rates for each gender.
-    <img width="819" alt="Funnel Analysis- Conversion Funnel for Male Result" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
-    <img width="840" alt="Funnel Analysis- Conversion Funnel for Female Result" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
+   <div align="center">
+      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/fa8636d0-ab9d-44fe-8d6e-80f5fa9a56dd">
+      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/0a4f55fa-09cd-4c35-92a5-b5e1b5058fd3">
+    </div>
 
   - **Pie Charts**: Illustrated conversion rates for "Added to Cart," "Initiated Checkout," and "Completed Purchase" by gender.
 
@@ -121,9 +123,14 @@ The following analyses were performed:
        - **Box Plots**: Distribution of numerical variables across categorical groups.
   3. **Multivariate Analysis**:
      - **Pairplot**: Visual relationships among all numerical features.
-       <img width="406" alt="Multivariate Analysis Result" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+       <<div align="center">
+         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/dbd8bf00-d5e1-4480-a726-d982247203d4">
+       </div>
+              
      - **Correlation Heatmap**: Correlation coefficients among numerical variables.
-       <img width="425" alt="Correlation Analysis" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
+      <div align="center">
+         <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/4b57b2c1-286d-4f47-a43c-f18a50169972">
+       </div>
 
 - **Key Results**:
   - **Summary Statistics**:
@@ -168,7 +175,9 @@ The following analyses were performed:
       3. **Satisfaction Rating (1-5)**
       4. **Total Income**
       5. **Purchase Frequency (per month)**
-         <img width="791" alt="Feature Engineering Result" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
+         <div align="center">
+           <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/18137ddb-bc57-4591-bfe9-14d4dee4ff02">
+         </div>
 
 
 -  **Insights** The feature engineering process significantly improved the model's predictive capabilities, providing meaningful insights into consumer spending behavior.
@@ -200,7 +209,9 @@ The following analyses were performed:
   - **Descriptive Statistics**: Indicated variability among customer income levels.
   - **Regression Analysis**: Provided insights into how well independent variables explain the target variable.
   - **Multivariate Analysis**: PCA visualized relationships among features, while K-Means revealed distinct customer segments.
-    <img width="667" alt="K-Means Clustering Result" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
+    <div align="center">
+      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/8281fac0-4851-43c4-9e2a-1f00476736c7">
+    </div>
 
 - **Insights**: The statistical analysis provided valuable insights into consumer behavior, revealing significant relationships and differences. Gender and occupation significantly influence spending, while income shows a strong correlation with spending patterns.
 
@@ -212,8 +223,9 @@ The following analyses were performed:
 - **Results**:
   - **K-Means Clustering**: Successfully identified distinct customer segments for targeted marketing strategies.
   - **Elbow Method**: Indicated the optimal number of clusters, providing a balance between model complexity and explained variance.
-    <img width="691" alt="Clustering and Segmentation Analysis Result" src="https://github.com/user-attachments/assets/a306cc90-54be-4942-890e-36d0ccb0deca">
-
+    <div align="center">
+      <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/a306cc90-54be-4942-890e-36d0ccb0deca">
+    </div>
 
 ### 7. Market Basket Analysis
 - **Methods Used**:
@@ -233,8 +245,9 @@ The following analyses were performed:
   2. **Cohort Count Calculation**: Counted the number of customers in each income cohort.
   3. **Retention Rate Mapping**: Simulated retention rates for each income cohort.
   4. **Data Visualization**: Created bar plots to visualize customer counts and retention rates by income cohorts.
-
-     <img width="406" alt="Cohort Analysis Result" src="https://github.com/user-attachments/assets/0d9d6cc9-4913-4f79-96c7-8c33640d8d22">
+     <div align="center">
+       <img style="width:600px; height:auto;" src="https://github.com/user-attachments/assets/0d9d6cc9-4913-4f79-96c7-8c33640d8d22">
+     </div>
 
   - **Results**:
   - Defined four income cohorts with varying customer counts and retention rates, showing higher loyalty among higher income groups.
